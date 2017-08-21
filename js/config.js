@@ -93,7 +93,10 @@ var l_musicPlaylist = [
 	{youtube: "FZFmuJ9OxaI", name: "God Fist Lee Sin Login Music"},
 	{youtube: "1IGsJxDjtkk", name: "Harrowing Login Music"},
 	{youtube: "1jjiTQSibaY", name: "Yorick Login Music"},
-	{youtube: "nDCW6VPmQbY", name: "Tahm Kench Login Music"}
+	{youtube: "nDCW6VPmQbY", name: "Tahm Kench Login Music"},
+	{youtube: "p2ABM_LjDTI", name: "Audiomachine - Worlds Collide"},
+	{youtube: "W5SPhETTgEc", name: "Blue Stahli - I Am The Beast"},
+	{youtube: "-Z9ySSrne4A", name: "Pure Composition - Illuminatus"}
 ];
 
 /*Random music order?*/
