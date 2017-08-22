@@ -89,7 +89,7 @@ Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
 	{youtube: "W2nNTmampaI", name: "Yasuo vs Riven | Login Screen"},
 	{youtube: "OHg6Ny9moZs", name: "Taliyah Theme Intro Music"},
-	{youtube: "oXquxaHT2V8", name: "World of Warcraft Medley"},
+	{youtube: "wrKYCWDitPY", name: "Ornn Login Music"},
 	{youtube: "FZFmuJ9OxaI", name: "God Fist Lee Sin Login Music"},
 	{youtube: "1IGsJxDjtkk", name: "Harrowing Login Music"},
 	{youtube: "1jjiTQSibaY", name: "Yorick Login Music"},
