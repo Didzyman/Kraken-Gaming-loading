@@ -87,16 +87,14 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "W2nNTmampaI", name: "Yasuo vs Riven | Login Screen"},
-	{youtube: "OHg6Ny9moZs", name: "Taliyah Theme Intro Music"},
-	{youtube: "wrKYCWDitPY", name: "Ornn Login Music"},
-	{youtube: "FZFmuJ9OxaI", name: "God Fist Lee Sin Login Music"},
-	{youtube: "1IGsJxDjtkk", name: "Harrowing Login Music"},
-	{youtube: "1jjiTQSibaY", name: "Yorick Login Music"},
-	{youtube: "nDCW6VPmQbY", name: "Tahm Kench Login Music"},
-	{youtube: "p2ABM_LjDTI", name: "Audiomachine - Worlds Collide"},
-	{youtube: "W5SPhETTgEc", name: "Blue Stahli - I Am The Beast"},
-	{youtube: "-Z9ySSrne4A", name: "Pure Composition - Illuminatus"}
+	{youtube: "q6-ZGAGcJrk", name: "Spooky Scary Skeletons"},
+	{youtube: "Ap9LN1kFb98", name: "Ghostbusters Theme"},
+	{youtube: "A_FjFaCE2Jk", name: "Depeche Mode - Angel"},
+	{youtube: "S_epBZx_e9w", name: "Dishonored ending song"},
+	{youtube: "BnSkt6V3qF0", name: "Ruelle - Madness"},
+	{youtube: "iQuVFBSPGcU", name: "The Nightmare Before Christmas"},
+	{youtube: "9Yd_SzLgkMo", name: "Ghostbusters- Pentatonix"},
+
 ];
 
 /*Random music order?*/
