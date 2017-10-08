@@ -50,11 +50,10 @@ var l_background = "backgrounds/videos/glimmering.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/loading (1).jpg",
-	"backgrounds/images/loading (2).jpg",
-	"backgrounds/images/loading (3).jpg",
-	"backgrounds/images/loading (4).jpg",
-	"backgrounds/images/loading (5).jpg"
+	"backgrounds/images/Halloween (1).jpg",
+	"backgrounds/images/Halloween (2).jpg",
+	"backgrounds/images/Halloween (3).jpg",
+	"backgrounds/images/Halloween (4).jpg",
 ];
 
 /*Random background images order?*/
@@ -89,8 +88,7 @@ Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
 	{youtube: "q6-ZGAGcJrk", name: "Spooky Scary Skeletons"},
 	{youtube: "Ap9LN1kFb98", name: "Ghostbusters Theme"},
-	{youtube: "A_FjFaCE2Jk", name: "Depeche Mode - Angel"},
-	{youtube: "S_epBZx_e9w", name: "Dishonored ending song"},
+	{youtube: "y1tnUSckHQY", name: "Come Little Children"},
 	{youtube: "BnSkt6V3qF0", name: "Ruelle - Madness"},
 	{youtube: "iQuVFBSPGcU", name: "The Nightmare Before Christmas"},
 	{youtube: "9Yd_SzLgkMo", name: "Ghostbusters- Pentatonix"},
