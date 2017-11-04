@@ -50,7 +50,7 @@ var l_background = "backgrounds/videos/glimmering.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/loading.jpg",
+	"backgrounds/images/loading (5).jpg",
 	"backgrounds/images/loading (1).jpg",
 	"backgrounds/images/loading (2).jpg",
 	"backgrounds/images/loading (3).jpg",
