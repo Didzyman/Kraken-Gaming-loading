@@ -87,12 +87,12 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "q6-ZGAGcJrk", name: "Spooky Scary Skeletons"},
-	{youtube: "Ap9LN1kFb98", name: "Ghostbusters Theme"},
-	{youtube: "y1tnUSckHQY", name: "Come Little Children"},
-	{youtube: "BnSkt6V3qF0", name: "Ruelle - Madness"},
-	{youtube: "iQuVFBSPGcU", name: "The Nightmare Before Christmas"},
-	{youtube: "9Yd_SzLgkMo", name: "Ghostbusters- Pentatonix"},
+	{youtube: "W2nNTmampaI", name: "Yasuo vs Riven"},
+	{youtube: "OHg6Ny9moZs", name: "Taliyah"},
+	{youtube: "FZFmuJ9OxaI", name: "God Fist Lee Sin"},
+	{youtube: "1IGsJxDjtkk", name: "Harrowing"},
+	{youtube: "1jjiTQSibaY", name: "Yorik"},
+	{youtube: "nDCW6VPmQbY", name: "Tahm Kench"},
 
 ];
 
