@@ -87,12 +87,13 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "W2nNTmampaI", name: "Yasuo vs Riven"},
-	{youtube: "OHg6Ny9moZs", name: "Taliyah"},
-	{youtube: "FZFmuJ9OxaI", name: "God Fist Lee Sin"},
-	{youtube: "1IGsJxDjtkk", name: "Harrowing"},
-	{youtube: "1jjiTQSibaY", name: "Yorik"},
-	{youtube: "nDCW6VPmQbY", name: "Tahm Kench"},
+	{youtube: "g7WmkQB7L8k", name: "Snow Wonders"},
+	{youtube: "zV-P1xa8rGI", name: "The End Is Always Near"},
+	{youtube: "ZvD8QSO7NPw", name: "Collapse"},
+	{youtube: "4h_6aRAxcwU", name: "Jingle Bells (Dark Piano Version)"},
+	{youtube: "REk9Ia6eYXk", name: "Silent Night (Dark Piano Version)"},
+	{youtube: "mwapQor9YyU", name: "Dance of the Sugar Plum Fairy "},
+
 
 ];
 
