@@ -93,12 +93,12 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "g7WmkQB7L8k", name: "Snow Wonders"},
-	{youtube: "zV-P1xa8rGI", name: "The End Is Always Near"},
-	{youtube: "ZvD8QSO7NPw", name: "Collapse"},
-	{youtube: "4h_6aRAxcwU", name: "Jingle Bells (Dark Piano Version)"},
-	{youtube: "REk9Ia6eYXk", name: "Silent Night (Dark Piano Version)"},
-	{youtube: "mwapQor9YyU", name: "Dance of the Sugar Plum Fairy "},
+	{youtube: "FnhuJsMua28", name: "The Ashes Will Be Woken"},
+	{youtube: "C0li4N9EQY4", name: "Death Mask"},
+	{youtube: "-pJCSfJL5FI", name: "I'M NOT BURIED YET"},
+	{youtube: "NzZ421uaX-Q", name: "Desolation"},
+	{youtube: "FT8nG9hv168", name: "Your God Is Dead"},
+	{youtube: "9i5XDYY-tSc", name: "ENTER THE SUN"},
 
 
 ];
@@ -108,7 +108,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 12;
+var l_musicVolume = 10;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
