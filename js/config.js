@@ -41,7 +41,6 @@ Avaiable options:
 "backgrounds/videos/orangeaura.webm"
 "backgrounds/videos/warminside.webm"
 "backgrounds/videos/yellowgreen.webm"
-
 You can add custom backgrounds
 Just make sure it is at webm VP8 format */
 var l_background = "backgrounds/videos/glimmering.webm";
@@ -93,12 +92,12 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "psuRGfAaju4", name: "Fireflies"},
-	{youtube: "feA64wXhbjo", name: "shooting stars"},
-	{youtube: "Gs069dndIYk", name: "September"},
-	{youtube: "FTQbiNvZqaY", name: "Africa"},
-	{youtube: "kvDMlk3kSYg", name: "Rasputin"},
-	{youtube: "BJ0xBCwkg3E", name: "Running in the 90's"},
+	{youtube: "FnhuJsMua28", name: "The Ashes Will Be Woken"},
+	{youtube: "C0li4N9EQY4", name: "Death Mask"},
+	{youtube: "-pJCSfJL5FI", name: "I'M NOT BURIED YET"},
+	{youtube: "NzZ421uaX-Q", name: "Desolation"},
+	{youtube: "FT8nG9hv168", name: "Your God Is Dead"},
+	{youtube: "9i5XDYY-tSc", name: "ENTER THE SUN"},
 
 
 ];
